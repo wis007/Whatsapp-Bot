@@ -28,17 +28,23 @@ Ce projet est un bot WhatsApp capable d'utiliser l'intelligence artificiel. Pour
 Après avoir connecté votre téléphone, vous pouvez tester le bot en envoyant des commandes via WhatsApp pour recevoir des stickers en réponse.
 Utilisation sur Téléphone
 
-    Installer Node.js et npm sur votre téléphone (si nécessaire) :
-        Pour les utilisateurs d'Android, vous pouvez utiliser Termux pour installer Node.js et npm. Téléchargez Termux depuis le Google Play Store ou un autre magasin d'applications.
-        Pour les utilisateurs d'iOS, l'installation de Node.js et npm directement n'est pas supportée. Utilisez un ordinateur pour configurer le bot.
+---
+***INSTRUCTION :***
 
-            Configurer le bot :
-        Dans Termux, clonez le projet et suivez les étapes d'installation mentionnées ci-dessus.
+   1. Installer Node.js et npm sur votre téléphone (si nécessaire) :
+         - Pour les utilisateurs d'Android, vous pouvez utiliser Termux pour installer Node.js et npm. Téléchargez Termux depuis le Google Play Store ou un autre magasin d'applications.
+         - Pour les utilisateurs d'iOS, l'installation de Node.js et npm directement n'est pas supportée. Utilisez un ordinateur pour configurer le bot.
 
-    Lancer le bot :
+   2. Configurer le bot :\
+      Dans Termux, clonez le projet et suivez les étapes d'installation mentionnées ci-dessus.
+
+   3. Lancer le bot :\
         Une fois les dépendances installées, lancez le bot avec node index.js dans Termux.
 
-    Scanner le code QR :
+   4. Scanner le code QR :\
         Utilisez l'application WhatsApp pour scanner le code QR et connecter votre téléphone au bot.
+
+***FIN D'INSTRUCTION***
+***
 
 Et voilà ! Votre bot WhatsApp est maintenant configuré et prêt à être utilisé. Profitez de l'envoi de stickers amusants via WhatsApp !
